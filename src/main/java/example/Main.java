@@ -11,7 +11,7 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
             System.out.println("do smth");
-            // for you, but you can always add more by pressing Ctrl+F8.
+            System.out.println("2333");
             System.out.println("i = " + i);
         }
     }
