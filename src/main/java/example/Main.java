@@ -10,10 +10,11 @@ public class Main {
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-            System.out.println("do smth");
             System.out.println("2333");
             System.out.println("i = " + i);
             System.out.println("major feature");
+            System.out.println("do smth");
+            System.out.println("major feature 2");
         }
     }
 }
