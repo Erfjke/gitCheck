@@ -37,6 +37,11 @@ bin/
 
 ### VS Code ###
 .vscode/
-
+gradle
+.idea
+gradlew
+gradlew.bat
+settings.gradle
+.gitignore
 ### Mac OS ###
 .DS_Store
