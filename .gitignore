@@ -45,3 +45,4 @@ settings.gradle
 .gitignore
 ### Mac OS ###
 .DS_Store
+.idea
