@@ -10,11 +10,21 @@ public class Main {
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
+            System.out.println("2333");
             System.out.println("i = " + i);
+
+            System.out.println("bla bla bal");
             System.out.println("hotfix");
+
+
+            System.out.println("major feature");
+            System.out.println("do smth");
+            System.out.println("major feature 2");
+            System.out.println("major feature 3");
+            System.out.println("release branch");
+            System.out.println("release branch 2");
+            System.out.println("only bugfixes");
+            System.out.println("smth");
         }
     }
 }
