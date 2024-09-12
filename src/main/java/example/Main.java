@@ -13,6 +13,7 @@ public class Main {
             System.out.println("do smth");
             System.out.println("2333");
             System.out.println("i = " + i);
+            System.out.println("future feature 1");
         }
     }
 }
