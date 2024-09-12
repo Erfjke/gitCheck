@@ -22,6 +22,7 @@ public class Main {
             System.out.println("major feature 2");
             System.out.println("major feature 3");
             System.out.println("release branch");
+            System.out.println("release branch 2");
         }
     }
 }
