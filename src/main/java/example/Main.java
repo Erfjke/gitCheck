@@ -15,6 +15,7 @@ public class Main {
             System.out.println("major feature");
             System.out.println("do smth");
             System.out.println("major feature 2");
+            System.out.println("major feature 3");
         }
     }
 }
